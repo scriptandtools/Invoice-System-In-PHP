@@ -1,0 +1,15 @@
+**Log on to codeastro.com for more projects!***
+
+**Database Name: invoicemgsys**
+
+**Developed by Abhishek Raj**
+
+**Recommended PHP Version 5.6 or Newer**
+
+
+**Login Details**
+
+Username: admin
+Password: Password@123
+
+
