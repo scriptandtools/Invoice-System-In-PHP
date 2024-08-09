@@ -4,6 +4,80 @@ The invoicing System is developed using PHP, CSS, Bootstrap, and JavaScript. Tal
 
 <img width="960" alt="Screenshot 2024-06-29 165831" src="https://github.com/user-attachments/assets/fa070219-eec5-4b02-8928-b15e8dc235d8">
 
+## Technologies:
+HTML: Page layout and design
+
+CSS: Design
+
+JS: Fontend
+
+PHP: Backend
+
+Bootstrap
+
+Java Script
+
+## Supported Operating Systems:
+You can run this project in the following operating systems:
+
+Windows
+
+MAC
+
+Linux
+
+## Features:
+
+User Registration & Login
+
+Profile Management
+
+Role-Based Access Control
+
+Admin Dashboard
+
+Invoice Creation & Management
+
+Recurring Invoices
+
+Customizable Invoice Templates
+
+Client Management
+
+Product/Service Catalog
+
+Tax Management
+
+Discount Management
+
+Multi-Currency Support
+
+Invoice Emailing
+
+Invoice PDF Generation
+
+Payment Reminders & Notifications
+
+Invoice Status Tracking (Paid, Unpaid, Overdue)
+
+Expense Tracking
+
+Revenue Reports
+
+Payment History
+
+Account Statements
+
+Invoice Archiving
+
+Data Import/Export
+
+Auto-Numbering for Invoices
+
+Credit Note Management
+
+Debit Note Management
+
 ## About System:
 
 Talking about the features of the Invoicing System, the user can simply view total orders which includes order suffix, date, customer name, address, state, order amount, and many more. The admin can manage orders, customers, categories, company profiles, and states. It also contains user management for easy management of the system.
